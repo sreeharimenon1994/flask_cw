@@ -1,3 +1,4 @@
 Flask==1.1.2
 flask-cors==3.0.8
 Flask_SQLAlchemy==2.4.1
+pyOpenSSL==19.1.0
